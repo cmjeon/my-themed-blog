@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="116f0c08-f56c-4fe8-8aff-6816ece87912" name="Changes" comment="edit repository">
+    <list default="true" id="116f0c08-f56c-4fe8-8aff-6816ece87912" name="Changes" comment="add blog data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +25,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="deploy" />
-                    <option name="lastUsedInstant" value="1662004941" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1662007641" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1662004940" />
+                    <option name="branchName" value="deploy" />
+                    <option name="lastUsedInstant" value="1662007449" />
                   </RecentBranch>
                 </list>
               </option>
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662000505934</updated>
-      <workItem from="1662000507257" duration="1584000" />
+      <workItem from="1662000507257" duration="3206000" />
     </task>
     <task id="LOCAL-00001" summary="edit repository">
       <created>1662004518683</created>
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662004518683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add blog data">
+      <created>1662007409200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662007409200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit repository" />
+    <MESSAGE value="add blog data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add blog data" />
   </component>
 </project>
