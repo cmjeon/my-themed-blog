@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/my-themed-blog",
   // Customize your site metadata:
   siteMetadata: {
     title: `My Blog Title`,
