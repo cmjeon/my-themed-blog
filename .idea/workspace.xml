@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="116f0c08-f56c-4fe8-8aff-6816ece87912" name="Changes" comment="add blog data">
+    <list default="true" id="116f0c08-f56c-4fe8-8aff-6816ece87912" name="Changes" comment="deploy 방법 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -66,6 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662000505934</updated>
       <workItem from="1662000507257" duration="3206000" />
+      <workItem from="1662028949619" duration="34000" />
+      <workItem from="1662087544493" duration="2062000" />
     </task>
     <task id="LOCAL-00001" summary="edit repository">
       <created>1662004518683</created>
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662007409200</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deploy 방법 변경">
+      <created>1662028970699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662028970699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,10 +107,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit repository" />
     <MESSAGE value="add blog data" />
-    <option name="LAST_COMMIT_MESSAGE" value="add blog data" />
+    <MESSAGE value="deploy 방법 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy 방법 변경" />
   </component>
 </project>
