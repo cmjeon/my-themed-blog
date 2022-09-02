@@ -21,8 +21,8 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {
         // basePath defaults to `/`
-        basePath: `/blog`,
-        preset: "@theme-ui/preset-funk",
+        // basePath: `/blog`,
+        preset: "@theme-ui/presets",
       },
     },
   ],

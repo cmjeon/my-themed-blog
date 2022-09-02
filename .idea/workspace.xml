@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="116f0c08-f56c-4fe8-8aff-6816ece87912" name="Changes" comment="deploy 방법 변경">
+    <list default="true" id="116f0c08-f56c-4fe8-8aff-6816ece87912" name="Changes" comment="npm i @theme-ui/preset-funk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gatsby-plugin-theme-ui/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/gatsby-plugin-theme-ui/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <updated>1662000505934</updated>
       <workItem from="1662000507257" duration="3206000" />
       <workItem from="1662028949619" duration="34000" />
-      <workItem from="1662087544493" duration="2062000" />
+      <workItem from="1662087544493" duration="2495000" />
     </task>
     <task id="LOCAL-00001" summary="edit repository">
       <created>1662004518683</created>
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662028970699</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="npm i @theme-ui/preset-funk">
+      <created>1662091969385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662091969385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
     <MESSAGE value="edit repository" />
     <MESSAGE value="add blog data" />
     <MESSAGE value="deploy 방법 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploy 방법 변경" />
+    <MESSAGE value="npm i @theme-ui/preset-funk" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm i @theme-ui/preset-funk" />
   </component>
 </project>
